@@ -114,12 +114,12 @@ nltk.download('stopwords')
 
 # 🧪 Usage
 
-##📌Train Model
+## 📌 Train Model
 ```bash
 python src/train_model.py  
 ```
 
-##📌Classify a New Article (CLI)
+## 📌 Classify a New Article (CLI)
 ```bash
 python src/classify.py articles/article12.txt  
 ```
