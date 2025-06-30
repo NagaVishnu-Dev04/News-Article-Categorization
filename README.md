@@ -74,9 +74,9 @@ The problem becomes even more pressing in the context of real-time news feeds wh
 ├── model/
 │   └── text_classifier.pkl      # Saved classifier using joblib
 ├── src/
-│   ├── preprocess.py            # Text cleaning and processing
-│   ├── train_model.py           # Model training and evaluation
-│   └── classify.py              # CLI and GUI based prediction
+│   ├── Project_code.ipynb            
+│   ├── Projct_documentation.pdf           
+│   └── Project_Prsentation.ppt              
 ├── gui/
 │   └── article_classifier_gui.py # Tkinter-based user interface
 ├── articles/
