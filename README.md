@@ -86,7 +86,7 @@ The problem becomes even more pressing in the context of real-time news feeds wh
 ```
 ---
 
-# Installation Guide
+# ⚙️ Installation Guide
 
 ## 1. Clone the Repository
 
