@@ -137,7 +137,7 @@ Predicted Category: Technology
 
 ---
 
-# Acknowledgements
+# 🙌 Acknowledgements
 
 Special thanks to:
 
