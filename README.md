@@ -145,7 +145,7 @@ Special thanks to:
 - Python, NLTK, and Scikit-learn communities for comprehensive ML libraries  
 - All contributors to open-source learning and tools  
 
-Created with [NagaVishnu-Dev04 ❤] —  passionate about NLP & AI applications.
+Created with NagaVishnu-Dev04 ❤ —  passionate about NLP & AI applications.
 
 ---
 
