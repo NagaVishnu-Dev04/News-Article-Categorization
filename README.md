@@ -85,3 +85,69 @@ The problem becomes even more pressing in the context of real-time news feeds wh
 └── requirements.txt
 ---
 
+# Installation Guide
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/news-article-categorization.git  
+cd news-article-categorization  
+```
+
+## 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt  
+```
+
+## 3. Download NLTK Packages
+
+```python
+import nltk  
+nltk.download('punkt')  
+nltk.download('wordnet')  
+nltk.download('stopwords')
+```
+
+---
+
+# Usage
+
+## Train Model
+```bash
+python src/train_model.py  
+```
+
+## Classify a New Article (CLI)
+```bash
+python src/classify.py articles/article12.txt  
+```
+
+## Classify using GUI
+```bash
+python gui/article_classifier_gui.py  
+```
+
+## Sample Output
+```csharp
+Model trained and saved as 'text_classifier.pkl'!  
+Predicted Category: Technology
+```
+
+---
+
+# Acknowledgements
+
+Special thanks to:
+
+- BBC News Dataset for providing quality data  
+- Python, NLTK, and Scikit-learn communities for comprehensive ML libraries  
+- All contributors to open-source learning and tools  
+
+Created with [NagaVishnu-Dev04 ❤] —  passionate about NLP & AI applications.
+
+---
+
+# Connect With Me
+
+**LINKED IN**
