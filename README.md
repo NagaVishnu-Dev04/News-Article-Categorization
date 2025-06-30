@@ -83,6 +83,7 @@ The problem becomes even more pressing in the context of real-time news feeds wh
 │   └── article12.txt            # Sample input file for prediction
 ├── README.md
 └── requirements.txt
+```
 ---
 
 # Installation Guide
