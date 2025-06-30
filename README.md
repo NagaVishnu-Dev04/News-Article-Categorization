@@ -112,7 +112,7 @@ nltk.download('stopwords')
 
 ---
 
-# Usage
+# 🧪 Usage
 
 ## Train Model
 ```bash
