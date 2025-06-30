@@ -83,3 +83,11 @@ The problem becomes even more pressing in the context of real-time news feeds wh
 │   └── article12.txt            # Sample input file for prediction
 ├── README.md
 └── requirements.txt
+---
+
+## ⚙️ Installation Guide
+
+1. **Clone the Repository**
+```bash
+git clone https://github.com/NagaVishnu-Dev04/news-article-categorization.git
+cd news-article-categorization
