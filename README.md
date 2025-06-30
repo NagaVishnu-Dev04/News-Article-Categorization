@@ -124,7 +124,7 @@ python src/train_model.py
 python src/classify.py articles/article12.txt  
 ```
 
-## Classify using GUI
+## 🖼️ Classify using GUI
 ```bash
 python gui/article_classifier_gui.py  
 ```
