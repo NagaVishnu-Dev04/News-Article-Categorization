@@ -153,5 +153,5 @@ Created with NagaVishnu-Dev04 ❤ —  passionate about NLP & AI applications.
 <a href="https://www.linkedin.com/in/pothana-naga-vishnu-5b337a27b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-<br>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagaVishnu-Dev04)
+[GITHUB](https://github.com/NagaVishnu-Dev04)
+
