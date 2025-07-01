@@ -154,6 +154,4 @@ Created with NagaVishnu-Dev04 ❤ —  passionate about NLP & AI applications.
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <br>
-<a href="https://github.com/NagaVishnu-Dev04">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagaVishnu-Dev04)
