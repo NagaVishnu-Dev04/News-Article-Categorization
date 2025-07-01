@@ -157,4 +157,8 @@ Created with NagaVishnu-Dev04 ❤ —  passionate about NLP & AI applications.
 <a href="https://github.com/NagaVishnu-Dev04" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow%20me-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
+<br>
+<a href="mailto:nagavishnupothana@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
